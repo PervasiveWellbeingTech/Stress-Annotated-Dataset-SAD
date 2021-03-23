@@ -1,5 +1,5 @@
-# Stress-Annotated-Dataset-SAD
-A Stress Annotated Dataset for Recognizing Everyday Stressors in SMS-like Conversational Systems
+# Stress Annotated Dataset (SAD) 
+...for Recognizing Everyday Stressors in SMS-like Conversational Systems
 
 Contained in the .zip file is the version 1 data set as an XLSX file, a schema TXT file describing the columns and sources of the data, and a PNG chart of the data's top_label distribution. To cite it, please use this reference:
 
